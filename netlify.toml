@@ -1,6 +1,0 @@
-[[plugins]]
-package = "@netlify/plugin-nextjs"
-
-[build]
-command = "NODE_OPTIONS=--openssl-legacy-provider next build"
-publish = ".next"
